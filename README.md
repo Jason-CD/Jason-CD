@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding , Gaming , Streaming ,Cooking
 - 🌱 I’m currently learning  Basic for Web Developer
 - 💞️ I’m looking to collaborate on Learning to be Web Developer
-- :white_check_mark: I’m part of coding-bootcamps-eu. Klick Here to visit the HP [this link](https://www.coding-bootcamps.eu) 
+- :white_check_mark: I’m part of coding-bootcamps-eu. Klick Here to visit the HP [bootcamp](https://www.coding-bootcamps.eu) 
 - 📫 How to reach me : jason.s.coding@gmail.com
 - ## TO DO List
 - [x] Learning Basic Github
