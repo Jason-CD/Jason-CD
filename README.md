@@ -1,6 +1,10 @@
 - #  Introduction
 - 👋 Hi, I’m @Jason-CD
-- 👀 I’m interested in Coding , Gaming , Streaming ,Cooking
+- 👀 I’m interested in :
+  - Coding
+  - Gaming
+  - Streaming
+  - Cooking
 - 🌱 I’m currently learning  Basic for Web Developer
 - 💞️ I’m looking to collaborate on Learning to be Web Developer
 - :white_check_mark: I’m part of coding-bootcamps-eu. Klick Here to visit the HP [bootcamp](https://www.coding-bootcamps.eu) 
