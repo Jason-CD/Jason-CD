@@ -10,9 +10,9 @@
 - :white_check_mark: I’m part of coding-bootcamps-eu. Klick Here to visit the HP [bootcamp](https://www.coding-bootcamps.eu) 
 - 📫 How to reach me : jason.s.coding@gmail.com
 - 
-- ## TO DO List
-- [x] Learning Basic Github
-- [ ] Basic Github Done !
+- ## TO DO Weekly List :
+- [x] Learning HTML-Basic
+- [ ] Learing CSS-Basic
 
 <!---
 Jason-CD/Jason-CD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
